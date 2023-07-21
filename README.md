@@ -4,21 +4,21 @@ Welcome to the Advanced Java Example Codes Repository! This repository is a coll
 
 ## Table of Contents
 
-1. [Annotations](#annotations)
-2. [Autoboxing](#autoboxing)
-3. [Concurrency](#concurrency)
-4. [Enums](#enums)
-5. [Generics](#generics)
-6. [Image Handling](#image-handling)
-7. [Input/Output (I/O)](#inputoutput-io)
-8. [Java Database Connectivity (JDBC)](#java-database-connectivity-jdbc)
-9. [Multithreading](#multithreading)
-10. [Networking](#networking)
-11. [New I/O (NIO)](#new-io-nio)
-12. [Regular Expressions (Regex)](#regular-expressions-regex)
-13. [Serializer and Deserializer](#serializer-and-deserializer)
-14. [String Handling](#string-handling)
-15. [Synchronization](#synchronization)
+1. [Annotations](https://github.com/SobujRoySunday/advanced-java/tree/main/src/annotations)
+2. [Autoboxing](https://github.com/SobujRoySunday/advanced-java/tree/main/src/autoboxing)
+3. [Concurrency](https://github.com/SobujRoySunday/advanced-java/tree/main/src/concurrency)
+4. [Enums](https://github.com/SobujRoySunday/advanced-java/tree/main/src/enums)
+5. [Generics](https://github.com/SobujRoySunday/advanced-java/tree/main/src/generics)
+6. [Image Handling](https://github.com/SobujRoySunday/advanced-java/tree/main/src/imagehandling)
+7. [Input/Output (I/O)](https://github.com/SobujRoySunday/advanced-java/tree/main/src/io)
+8. [Java Database Connectivity (JDBC)](https://github.com/SobujRoySunday/advanced-java/tree/main/src/jdbc)
+9. [Multithreading](https://github.com/SobujRoySunday/advanced-java/tree/main/src/multithreading)
+10. [Networking](https://github.com/SobujRoySunday/advanced-java/tree/main/src/networking)
+11. [New I/O (NIO)](https://github.com/SobujRoySunday/advanced-java/tree/main/src/nio)
+12. [Regular Expressions (Regex)](https://github.com/SobujRoySunday/advanced-java/tree/main/src/regex)
+13. [Serializer and Deserializer](https://github.com/SobujRoySunday/advanced-java/tree/main/src/serdeser)
+14. [String Handling](https://github.com/SobujRoySunday/advanced-java/tree/main/src/stringhandling)
+15. [Synchronization](https://github.com/SobujRoySunday/advanced-java/tree/main/src/syncronization)
 
 ## Annotations
 
@@ -80,7 +80,7 @@ This category focuses on examples related to string handling in Java. Learn abou
 
 Explore examples showcasing synchronization in Java. Learn how to handle concurrent access to shared
 
- resources, prevent data races, and ensure thread safety.
+resources, prevent data races, and ensure thread safety.
 
 ## About the Author
 
